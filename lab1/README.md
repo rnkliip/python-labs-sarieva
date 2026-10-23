@@ -3,6 +3,6 @@
 безопасности
 Студент: Сариева Арина Руфатовна
 Группа: ОИБАС-21
-Файл с работой: [lab1/lab1](lab1/lab1)
+Файл с работой: [[lab1/lab1](https://github.com/rnkliip/python-labs-sarieva/blob/main/lab1/lab1)]([lab1/lab1](https://github.com/rnkliip/python-labs-sarieva/blob/main/lab1/lab1))
 Описание: Программа содержит функции для валидации MMSI
 идентификаторов, расчёта энтропии и классификации инцидентов
